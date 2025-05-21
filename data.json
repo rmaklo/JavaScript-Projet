@@ -1,0 +1,89 @@
+{
+  "journal": {
+    "nomJournal": "Rayan Décrypte",
+    "phraseAccroche": "L’art du design graphique au service des marques",
+    "texteAppelAction": "Abonnez-vous pour découvrir les tendances et secrets des identités visuelles réussies",
+    "articlePrincipal": {
+      "titre": "Comment les grandes marques repensent leur identité visuelle en 2025",
+      "description": "Un tour d’horizon des refontes graphiques majeures qui marquent l’année et les stratégies derrière ces choix.",
+      "date": "20 Mai 2025",
+      "theme": "Tendances",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/10/07/branding-1868728_1280.jpg"
+    },
+    "articles": [
+      {
+        "titre": "L’importance du logo dans la construction de l’image de marque",
+        "date": "15 Avril 2025",
+        "theme": "Fondamentaux",
+        "image": "https://cdn.pixabay.com/photo/2017/02/07/20/20/logo-2040329_1280.png"
+      },
+      {
+        "titre": "Couleurs et typographies : le duo gagnant du design efficace",
+        "date": "10 Mars 2025",
+        "theme": "Esthétique",
+        "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/colors-1836485_1280.jpg"
+      },
+      {
+        "titre": "Stratégies de branding : comment créer une identité cohérente",
+        "date": "25 Février 2025",
+        "theme": "Stratégie",
+        "image": "https://cdn.pixabay.com/photo/2017/08/01/17/23/brand-2568006_1280.jpg"
+      },
+      {
+        "titre": "Les collaborations entre designers et entreprises : un levier de succès",
+        "date": "10 Janvier 2025",
+        "theme": "Partenariats",
+        "image": "https://cdn.pixabay.com/photo/2016/03/26/22/13/startup-1283937_1280.jpg"
+      },
+      {
+        "titre": "Ethique et design : l’impact social des identités visuelles",
+        "date": "5 Décembre 2024",
+        "theme": "Responsabilité",
+        "image": "https://cdn.pixabay.com/photo/2017/01/31/21/20/ethics-2022674_1280.jpg"
+      }
+    ],
+    "themes": [
+      {
+        "nom": "Tendances",
+        "description": "Les styles et courants qui marquent le design graphique actuel."
+      },
+      {
+        "nom": "Fondamentaux",
+        "description": "Les bases indispensables pour créer une identité visuelle forte."
+      },
+      {
+        "nom": "Esthétique",
+        "description": "L’importance des choix graphiques : couleurs, formes, typographies."
+      },
+      {
+        "nom": "Stratégie",
+        "description": "Comment aligner design et objectifs marketing."
+      },
+      {
+        "nom": "Partenariats",
+        "description": "Collaboration entre designers et marques pour des créations impactantes."
+      },
+      {
+        "nom": "Responsabilité",
+        "description": "Les enjeux éthiques et sociaux dans le design graphique."
+      }
+    ],
+    "auteurs": [
+      {
+        "prenom": "Claire",
+        "typeExperience": "Designer graphique",
+        "presentation": "Je crée des identités visuelles modernes et efficaces pour des marques ambitieuses."
+      },
+      {
+        "prenom": "Thomas",
+        "typeExperience": "Stratège en branding",
+        "presentation": "J’aide les entreprises à aligner leur image avec leurs valeurs et objectifs."
+      },
+      {
+        "prenom": "Elena",
+        "typeExperience": "Chercheuse en design éthique",
+        "presentation": "J’étudie l’impact social et environnemental du design visuel."
+      }
+    ]
+  }
+}
