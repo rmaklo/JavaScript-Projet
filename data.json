@@ -8,38 +8,43 @@
       "description": "Un tour d’horizon des refontes graphiques majeures qui marquent l’année et les stratégies derrière ces choix.",
       "date": "20 Mai 2025",
       "theme": "Tendances",
-      "image": "https://cdn.pixabay.com/photo/2016/11/29/10/07/branding-1868728_1280.jpg"
+      "image": "images/photo1.jpg"
     },
     "articles": [
       {
         "titre": "L’importance du logo dans la construction de l’image de marque",
         "date": "15 Avril 2025",
         "theme": "Fondamentaux",
-        "image": "https://cdn.pixabay.com/photo/2017/02/07/20/20/logo-2040329_1280.png"
+        "image": "images/photo2.jpg",
+        "description" : "Le logo est souvent le premier contact visuel entre une marque et son public. Il incarne l’essence même de l’entreprise, en condensant son identité dans une forme simple mais évocatrice. Bien conçu, il renforce la reconnaissance, inspire confiance et marque les esprits. C’est un pilier central dans toute stratégie de branding."
       },
       {
         "titre": "Couleurs et typographies : le duo gagnant du design efficace",
         "date": "10 Mars 2025",
         "theme": "Esthétique",
-        "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/colors-1836485_1280.jpg"
+        "image": "images/photo3.jpg",
+        "description" : "En design graphique, l’harmonie entre couleurs et typographies joue un rôle clé dans la clarté et l’impact d’un message. Les couleurs éveillent les émotions, tandis que la typographie structure l’information. Ensemble, elles forment un langage visuel puissant, capable d’orienter l’attention et de renforcer l’identité d’une marque."
       },
       {
         "titre": "Stratégies de branding : comment créer une identité cohérente",
         "date": "25 Février 2025",
         "theme": "Stratégie",
-        "image": "https://cdn.pixabay.com/photo/2017/08/01/17/23/brand-2568006_1280.jpg"
+        "image": "images/photo1.jpg",
+        "description" : "Construire une identité de marque forte ne s’improvise pas. Cela repose sur une stratégie claire qui aligne visuel, ton et valeurs. De la charte graphique au storytelling, chaque élément doit contribuer à une image cohérente, reconnaissable et mémorable. C’est cette cohérence qui crée la confiance et fidélise le public."
       },
       {
         "titre": "Les collaborations entre designers et entreprises : un levier de succès",
         "date": "10 Janvier 2025",
         "theme": "Partenariats",
-        "image": "https://cdn.pixabay.com/photo/2016/03/26/22/13/startup-1283937_1280.jpg"
+        "image": "images/photo2.jpg",
+        "description" : "Quand les designers s’associent étroitement aux entreprises, cela donne souvent naissance à des identités percutantes et innovantes. Ces partenariats favorisent l’échange de visions et permettent de traduire des objectifs commerciaux en expériences visuelles engageantes. Une collaboration réussie, c’est une marque qui parle vrai… et qui se démarque."
       },
       {
         "titre": "Ethique et design : l’impact social des identités visuelles",
         "date": "5 Décembre 2024",
         "theme": "Responsabilité",
-        "image": "https://cdn.pixabay.com/photo/2017/01/31/21/20/ethics-2022674_1280.jpg"
+        "image": "images/photo3.jpg",
+        "description" : "Le design graphique n’est pas neutre : il véhicule des messages, façonne des comportements et influence les représentations. Aujourd’hui, les designers ont un rôle à jouer dans la construction d’un imaginaire plus responsable, inclusif et conscient. Concevoir une identité visuelle, c’est aussi faire un choix de société."
       }
     ],
     "themes": [
@@ -72,17 +77,20 @@
       {
         "prenom": "Claire",
         "typeExperience": "Designer graphique",
-        "presentation": "Je crée des identités visuelles modernes et efficaces pour des marques ambitieuses."
+        "presentation": "Je crée des identités visuelles modernes et efficaces pour des marques ambitieuses.",
+        "image": "images/claire.png"
       },
       {
         "prenom": "Thomas",
         "typeExperience": "Stratège en branding",
-        "presentation": "J’aide les entreprises à aligner leur image avec leurs valeurs et objectifs."
+        "presentation": "J’aide les entreprises à aligner leur image avec leurs valeurs et objectifs.",
+        "image": "images/thomas.png"
       },
       {
         "prenom": "Elena",
         "typeExperience": "Chercheuse en design éthique",
-        "presentation": "J’étudie l’impact social et environnemental du design visuel."
+        "presentation": "J’étudie l’impact social et environnemental du design visuel.",
+        "image": "images/elena.png"
       }
     ]
   }
